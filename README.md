@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola!
 
 <!--
 **SamannoyB/SamannoyB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### *I am used to dedicating my precious time writing useless code 😑*.
+If you know me, you know me. I like to maintain privacy 🛡️ (serious).
+
+-------------------------------------------------------
+I am interested in:
+- **<img src="https://media.tenor.com/vUrMlNTCezcAAAAi/dinosaur.gif" style="size: 120px;"> Web Dev**: *JavaScript, React, HTML, CSS, NodeJS, PHP, MySQL*
+- ** ![CPU](https://media.tenor.com/Dh5gcXQ0HxcAAAAM/cpu-on-smoke-cpu-blasts.gif) Servers**: *C, ASSembly, C++*
+- ** Robotics, AI & ML **: *Python, Arduino*
+
+### I USE ARCH BTW.
