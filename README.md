@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-#### *I am used to dedicating my precious time writing useless code 😑*.
 If you know me, you know me. I like to maintain privacy 🛡️ (serious).
+
+## Interested In: [someone]
 
 -------------------------------------------------------
 ## What I Know:
