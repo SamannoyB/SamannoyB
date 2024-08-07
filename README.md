@@ -2,7 +2,7 @@
 
 Interested In: [someone], Linux, Hardware
 
-Know: Web Dev, NodeJS, C, C#
+Know: Web Dev, NodeJS, C, C#, Python
 
 Learning: Arduino, C++, Assembly, Rust
 
