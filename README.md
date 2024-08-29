@@ -1,5 +1,7 @@
 ## Hola!
 
+![samannoyb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samannoyb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 Interested In: [someone], Linux, Hardware
 
 Know: Web Dev, NodeJS, C, C#, Python
