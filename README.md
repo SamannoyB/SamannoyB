@@ -2,7 +2,7 @@
 
 Programmer by passion. Likes to delve deeper into things. Interested in **Linux and GNU** (primarily open source things!) 
 Interested a lot in **systems programming**, as such somewhat proficient at **C and Assembly**.
-Also, a part time **electronics hobbyist** (FPGA, Logic Gates, Arduino, Breadboards).
+Also, a part time **electronics hobbyist** (ARM, Microchips, KiCAD, FPGA, Logic Gates, Arduino, Breadboards).
 
 Expert in **Web and Server Dev** but not interested rn.
 
