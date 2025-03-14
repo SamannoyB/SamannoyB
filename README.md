@@ -1,4 +1,5 @@
 ## Hola!
+First of all, I use Arch btw.
 
 Programmer by passion. Likes to delve deeper into things. Interested in **Linux and GNU** (primarily open source things!) 
 Interested a lot in **systems programming**, as such somewhat proficient at **C and Assembly**.
